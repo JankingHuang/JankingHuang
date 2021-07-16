@@ -2,9 +2,10 @@
 
 
 * 我是　[Janking Huang](https://jankinghuang.github.io) :blush:
-* 一个持续学习者，热爱编程。热衷开源项目，热衷使用[ArchLinux](https://archlinux.org/)作为桌面系统🤔
-* 喜欢研究一些新鲜的事物，喜欢音乐🎶，看纸质书📖
-* 喜欢打🎾、🚴🏻也是一个不错的选择，常常在[Leetcode](https://leetcode-cn.com/u/jankinghuang/)刷题目,🥬🐓一个
+* 一个持续学习者，热爱编程。热衷开源，使用[ArchLinux](https://archlinux.org/)作为桌面系统🤔
+* 喜欢研究一些新鲜的事物，喜欢🎶、📖
+* 喜欢打🎾、🚴🏻也是一个不错的选择。
+* 有时会在[Leetcode](https://leetcode-cn.com/u/jankinghuang/)刷题目,🥬🐓一个
 
 * 目前在～～～(不告诉你🤪)
   
