@@ -6,11 +6,6 @@
 * 喜欢研究一些新鲜的事物，喜欢🎶、📖
 * 喜欢打🎾、🚴🏻也是一个不错的选择。
 * 有时会在[Leetcode](https://leetcode-cn.com/u/jankinghuang/)刷题目,🥬🐓一个
-
-* 目前在～～～(不告诉你🤪)
-  
-
-* 与我联系[Janking's community 欢迎加入](https://gitter.im/JankingHuang/community)
 * 我的博客 [Janking's Blog](https://jankinghuang.github.io/) 🎊🎊🎊🎊🎊🎊
 
 
