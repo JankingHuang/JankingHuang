@@ -10,5 +10,7 @@
 
 ![Janking Github Stats](https://github-readme-stats.vercel.app/api?username=JeffersonHuang&show_icons=true_color=fff&icon_color=0000FF&text_color=000000&bg_color=ffffff)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonHuang&layout=compact&show_icons=true&theme=radical&hide_border=false&langs_count=8&hide=swift,kotlin,Ruby,Objective-C&text_color=000000&bg_color=ffffff)
+
 
 
