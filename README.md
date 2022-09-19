@@ -1,7 +1,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 <img align="right" src="https://github.com/JeffersonHuang/JeffersonHuang/blob/master/dashatars.png" width="50%">
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About me: </h3>
 
 * 全职Flutter 开发工程师💻
 
