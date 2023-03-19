@@ -3,7 +3,7 @@
 
 <h3 align="left">About me: </h3>
 
-* 全职[Flutter](https://flutter.dev/) 开发工程师💻。
+* [Flutter](https://flutter.dev/) CV攻城狮💻。
 
 * 一个持续学习者，热爱编程🤔，热衷开源。
 
