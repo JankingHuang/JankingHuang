@@ -9,5 +9,4 @@
 
 * 喜欢研究一些新鲜的事物，喜欢🎶、📖。
 
-* 目前在参与🚧[easy_sidemenu](https://github.com/Jamalianpour/easy_sidemenu)、🧑‍💻[reference](https://github.com/jaywcjlove/reference)。
 
