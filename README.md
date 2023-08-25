@@ -3,8 +3,8 @@
 
 <h3 align="left">About me: </h3>
 
-* [HMU](https://hmu.ac.cn/)的学渣。
-* [Flutter](https://flutter.dev/) CV攻城狮💻。
+* [HMU](https://hmu.ac.cn/) 学渣。
+* [Android](https://www.android.com/) CV攻城狮💻。
 
 * 一个持续学习者，热爱编程🤔，热衷开源。
 
